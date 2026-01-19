@@ -13,7 +13,7 @@ CTE chains
 
 Advanced analytical queries
 
- # 🗂 Dataset Overview
+ ### 🗂 Dataset Overview
 
 The schema simulates a sales domain with the following entities:
 
